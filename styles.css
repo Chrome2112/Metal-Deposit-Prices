@@ -1,0 +1,33 @@
+body {
+	font-family: cursive;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover { 
+     color: orange;
+ } 
+
+ a:visited{
+ 	text-decoration:none;
+ }
+  img{
+	transition: transform 2s ease;
+}
+
+  img:hover {
+    
+    transform: rotatey(360deg);
+    width:125px;
+    height:125px;
+}
+
+table {
+  
+  height:160px;
+
+}
+   
